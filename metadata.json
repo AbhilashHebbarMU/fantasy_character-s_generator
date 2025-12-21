@@ -1,0 +1,5 @@
+{
+  "name": "Fantasy Character Generator",
+  "description": "An interactive web app that uses AI to generate a random fantasy character with a name and class when you click a button.",
+  "requestFramePermissions": []
+}
